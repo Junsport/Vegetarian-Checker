@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+
+ body{
+     text-align: center;
+     font-family: 'Roboto', sans-serif;
+ }
+ table, th, td{
+     border: 1px solid black;
+     margin: 0 auto;
+ }
+ #barcode{
+     width: 200px;
+ }
+ img {
+     max-height: 400px;
+     margin: 0 auto;
+     margin-top: 10px;
+ }
