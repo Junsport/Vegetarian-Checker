@@ -5,6 +5,10 @@
  body{
      text-align: center;
      font-family: 'Roboto', sans-serif;
+     background-color: rgb(200, 254, 241);
+ }
+ h2{
+     font-size: 32px;
  }
  table, th, td{
      border: 1px solid black;
