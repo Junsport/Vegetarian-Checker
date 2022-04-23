@@ -23,3 +23,10 @@
      margin: 0 auto;
      margin-top: 10px;
  }
+ .non-veg-item{
+     background-color: red;
+     font-weight: 800;
+ }
+ .unknown-maybe-item {
+     background-color: yellow;
+ }
