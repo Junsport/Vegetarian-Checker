@@ -13,6 +13,7 @@
  table, th, td{
      border: 1px solid black;
      margin: 0 auto;
+     background-color: white;
  }
  #barcode{
      width: 200px;
